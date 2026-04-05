@@ -1,0 +1,21 @@
+
+> cloud-event-hub@0.0.0 lint
+> eslint .
+
+
+E:\CC mp\file-storage-system\src\pages\AuthPage.jsx
+  3:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\CC mp\file-storage-system\src\pages\Dashboard.jsx
+  2:45  error  'orderBy' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\CC mp\file-storage-system\src\pages\ExplorerPage.jsx
+  6:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\CC mp\file-storage-system\src\pages\LandingPage.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u        no-unused-vars
+  2:18  error  'useScroll' is defined but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  2:29  error  'useTransform' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+Γ£û 6 problems (6 errors, 0 warnings)
+

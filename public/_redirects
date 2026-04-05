@@ -1,0 +1,5 @@
+/*
+  _redirects
+  Netlify routing config
+*/
+/* /index.html 200
